@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adwaith 👋</h1><p align="center">
-  Engineering Student • AI Builder • Cybersecurity Learner
+  Engineering Student • AI Builder •
 </p>---
 
 🚀 About Me
@@ -76,8 +76,8 @@ Looking to work on:
 📫 Reach Me
 
 - GitHub: https://github.com/adwaith-0
-- LinkedIn: (add this)
-- Email: (add this)
+- LinkedIn: 
+- Email: adwaithakumar210@gmail.com
 
 ---
 
